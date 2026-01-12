@@ -1,1 +1,2 @@
 # Anudip-Foundation
+I am currently starting a learning program in Data Analytics at Anudip Foundation. Through this program and related projects, I am gaining hands-on experience with tools such as Excel, SQL, and Power BI, along with core data analytics skills including data cleaning, data visualization, data interpretation, and basic statistical analysis. This learning journey is helping me build a strong foundation in data-driven problem solving and practical analytics workflows.
